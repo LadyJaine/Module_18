@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04e8f384-75ca-4673-be55-2a167b39342a" name="Changes" comment="Задание 1">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="04e8f384-75ca-4673-be55-2a167b39342a" name="Changes" comment="Задание 2">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
@@ -41,7 +41,7 @@
     "Python.urls.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Евгения/PycharmProjects/Django_Super"
+    "last_opened_file_path": "C:/Users/Евгения/PycharmProjects/Module_14_sql3lite"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -68,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730968344454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задание 2">
+      <option name="closed" value="true" />
+      <created>1731349011847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731349011848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1" />
+    <MESSAGE value="Задание 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 2" />
   </component>
 </project>
